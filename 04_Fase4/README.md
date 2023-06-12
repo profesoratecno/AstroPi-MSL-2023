@@ -5,14 +5,14 @@ Hemos selecionado las imagenes más representativas:
 |---------|----------------------------|
 |71|"Ovar,Portugal"|
 |72|"Coimbra,Portugal"|
-|77|"Torrox (MÃ¡laga),EspaÃ±a"|
+|77|"Torrox (Málaga),España"|
 |94|"Chat-Libia"|
 |100|"Volcán Toussidá,Chad"|
-|124|"lake albert,Africa"|
-|141|"RÃ­o Rovuma,Tanzania-Mozambique"|
-|154|"Madagascar,Madagascar"|
-|446|"Canarias ,EspaÃ±a"|
+|124|"Lake Albert,Africa"|
+|141|"Río Rovuma,Tanzania-Mozambique"|
+|154|"Madagascar"|
+|446|"Canarias ,España"|
 |472|"Lago Volta,Ghana"|
-|482|",Santo Tomá y Príncipe"|
-|491|"Rí­o CongÃ¼e|Republica Democratica del Congo-Angola"|
-|507|"Delta del Okavango (Patrimonio de la humanidad),Botsuana"|
+|482|"Santo Tomá y Príncipe"|
+|491|"Rí­o Congáe,Republica Democratica del Congo-Angola"|
+|507|"Delta del Okavango (sPatrimonio de la humanidad),Botsuana"|
