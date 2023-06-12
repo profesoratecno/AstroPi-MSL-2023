@@ -4,11 +4,11 @@ Hemos selecionado las imagenes más representativas:
 |Num Foto||
 |---------|----------------------------|
 |71|"Ovar,Portugal"|
-|72||"Coimbra,Portugal"|
+|72|"Coimbra,Portugal"|
 |77|"Torrox (MÃ¡laga),EspaÃ±a"|
-|94"Chat-Libia"|
+|94|"Chat-Libia"|
 |100|"Volcán Toussidá,Chad"|
-|124"lake albert,Africa"|
+|124|"lake albert,Africa"|
 |141|"RÃ­o Rovuma,Tanzania-Mozambique"|
 |154|"Madagascar,Madagascar"|
 |446|"Canarias ,EspaÃ±a"|
