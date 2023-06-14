@@ -1,7 +1,7 @@
 # Preparing analysis / Preparando análisis
 
 We can implement the tutorial on personal computers
-Podemos implementar el tutorial en ordenadores personales
+*Podemos implementar el tutorial en ordenadores personales*
 [Capture plant health with NDVI and Raspberry Pi](https://projects.raspberrypi.org/en/projects/astropi-ndvi)
 
 ## Windows
