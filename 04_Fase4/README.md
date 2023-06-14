@@ -1,4 +1,6 @@
 # RESULTADOS
+Con los datos recibidos del estado de vuelo: Pesulins_run2
+Los resultados están en la carpeta: Pesulins_run2(SELECCION)
 Hemos selecionado las imagenes más representativas:
 
 |Num Foto|||
