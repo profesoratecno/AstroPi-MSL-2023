@@ -3,7 +3,7 @@
   +                                                                                                                      +   
   +  Project for the Astro Pi Competition                                                                                +
   +                                                                                                                      +
-  +  This has been written by AlmendrosCraft team for the Astro Pi competition, 2023.                                    +
+  +  This has been written by Pesulins team for the Astro Pi competition, 2023.                                    +
   +  This program is designed to photograph the Earth from in the Interntional Space Station                             +
   +  to process the images and analyze in NDVI index and study the health of the plants.                                 +
   +                                                                                                                      +
