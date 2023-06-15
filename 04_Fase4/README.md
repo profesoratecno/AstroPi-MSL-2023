@@ -1,7 +1,16 @@
-# RESULTADOS
-Con los datos recibidos del estado de vuelo: Pesulins_run2
-Los resultados están en la carpeta: Pesulins_run2(SELECCION)
-Hemos selecionado las imagenes más representativas:
+# RESULTS *RESULTADOS*
+
+With the data received from the flight status: Pesulins_run2 
+
+*Con los datos recibidos del estado de vuelo: Pesulins_run2*
+
+The results are in the folder: Pesulins_run2(SELECTION) 
+
+*Los resultados están en la carpeta: Pesulins_run2(SELECCION)*
+
+We have selected the most representative images:
+
+*Hemos selecionado las imagenes más representativas:*
 
 |Num Foto|||
 |---------|----------------------------|----------------------------|
