@@ -7,7 +7,7 @@ AstroPi Mission Space Lab. Challenge documentation:
 3. Phase 3: Flight status / Preparation of analysis codes
 4. Phase 4: Results
 
-
+[*ESPAÑOL*]
 1. *Fase 1: Idea inicial*
 2. *Fase 2: Main code (se enciará un archivo .zip)*
 3. *Fase 3: Estado de vuelo / Preparando códigos análisis*
